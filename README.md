@@ -1,6 +1,4 @@
-# KARMS FACEBOOK
-
-> Pithy project description
+# REBASEBOOK
 
 ## Team
 
@@ -10,45 +8,16 @@
   - Ryan Ngo
   - Shubhra Jain
 
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-    1. [Installing Dependencies](#installing-dependencies)
-    1. [Tasks](#tasks)
-1. [Roadmap](#roadmap)
-1. [Contributing](#contributing)
+## Watch full demo here:
+https://www.youtube.com/watch?v=c8W4gY5V11w
 
 ## Usage
+1. Sign up if it's your first time or login to your profile.
+2. Use the application as you would use your actual facebook profile like post something, like/dislike comments, search someone, browse their profile, add friends.
+3. Logout when done!
 
-> Some usage instructions
-
-## Requirements
-
-- Node 6.4.x
-- Redis 2.6.x
-- Postgresql 9.1.x
-- etc
-- etc
-
-## Development
-
-### Installing Dependencies
-
-From within the root directory:
-
-```sh
-npm install -g bower
-npm install
-bower install
-```
-
-### Roadmap
-
-View the project roadmap [here](LINK_TO_DOC)
-
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+### Tech Stack:
+* Nodejs
+* PostgreSQL
+* React
+* Express
